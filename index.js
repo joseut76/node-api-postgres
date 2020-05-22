@@ -20,4 +20,4 @@ app.use('/grade', gradesRouter);
 
 
 app.listen(port, console.log(`Example app listening at http://localhost:${port}`))
-module.exports = index;
+module.exports = app;
